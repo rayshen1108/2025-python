@@ -9,3 +9,7 @@ print(name)
 print(age)
 print(height)
 print(is_student)
+
+# 不能以數字開頭
+# 不能包含連字號
+# 不能使用保留字
