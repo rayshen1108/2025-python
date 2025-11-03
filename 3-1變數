@@ -1,0 +1,11 @@
+# 建立變數
+name= "張三"
+age=30
+height= 175.5
+is_student=True
+
+# 輸出變數
+print(name)
+print(age)
+print(height)
+print(is_student)
