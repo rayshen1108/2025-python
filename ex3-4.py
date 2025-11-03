@@ -1,0 +1,16 @@
+# 整數 (Integer)
+age = input("please input int number = ")
+print("age = ",age)
+print(type(age))
+
+age = int(input("please input int number = "))
+print("age = ",age)
+print(type(age))
+# 浮點數 (Float)
+height = input("please input float number = ")
+print("height = ",height)
+print(type(height))
+
+height = float(input("please input float number = "))
+print("height = ",height)
+print(type(height))
