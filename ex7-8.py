@@ -1,0 +1,4 @@
+N=4
+ss=0
+for i in range(1,N,1):
+    i = int(input("please input a int:"))
