@@ -1,0 +1,11 @@
+def add_numbers(a, b):
+    """計算兩個數字的和"""
+    result = a + b
+    return result
+
+A=int(input("輸入數字A:"))
+B=int(input("輸入數字B:"))
+
+# 使用函數
+sum_result = add_numbers(A, B)
+print(f"{A} + {B} = {sum_result}")
