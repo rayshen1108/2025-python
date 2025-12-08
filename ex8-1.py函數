@@ -1,0 +1,5 @@
+def greet():
+    print("你好!歡迎來學python!")
+    
+#呼叫函數
+greet()
